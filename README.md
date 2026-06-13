@@ -76,7 +76,3 @@ El arnés de pruebas (`tests/run-tests.ts`) cubre:
 - Protección de PHI: minimizar exposición de datos sensibles en endpoints.
 - Sanitización: React ya escapa strings; validar entradas en backend.
 - Robustez: casos de uso con invariantes claros y pruebas unitarias.
-
----
-
-Si deseas que adapte o acorte alguna sección del README, dímelo y la actualizo.
