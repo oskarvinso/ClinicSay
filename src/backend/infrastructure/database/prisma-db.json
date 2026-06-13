@@ -1,0 +1,52 @@
+[
+  {
+    "patientId": "PT-101",
+    "type": "ALLERGY",
+    "severity": "MEDIUM",
+    "message": "Cocoonut allergic",
+    "active": true,
+    "id": "alert_3x9r5tn11",
+    "createdAt": "2026-06-12T20:18:32.341Z",
+    "updatedAt": "2026-06-12T20:19:20.620Z"
+  },
+  {
+    "patientId": "PT-101",
+    "type": "ADMINISTRATIVE",
+    "severity": "LOW",
+    "message": "No reporta EPS",
+    "active": true,
+    "id": "alert_faabnzlw1",
+    "createdAt": "2026-06-12T20:20:27.520Z",
+    "updatedAt": "2026-06-12T20:20:27.520Z"
+  },
+  {
+    "patientId": "PT-101",
+    "type": "MEDICAL_RISK",
+    "severity": "HIGH",
+    "message": "Necesita internación",
+    "active": true,
+    "id": "alert_d11geud09",
+    "createdAt": "2026-06-12T20:20:27.767Z",
+    "updatedAt": "2026-06-12T20:20:27.767Z"
+  },
+  {
+    "patientId": "PT-101",
+    "type": "ALLERGY",
+    "severity": "HIGH",
+    "message": "penicillina",
+    "active": true,
+    "id": "alert_fef0ehb7g",
+    "createdAt": "2026-06-12T20:21:32.635Z",
+    "updatedAt": "2026-06-12T20:22:19.730Z"
+  },
+  {
+    "patientId": "PT-101",
+    "type": "ADMINISTRATIVE",
+    "severity": "LOW",
+    "message": "Robo de moneda",
+    "active": true,
+    "id": "alert_2emee1d11",
+    "createdAt": "2026-06-12T20:21:55.186Z",
+    "updatedAt": "2026-06-12T20:21:55.186Z"
+  }
+]

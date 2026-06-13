@@ -1,0 +1,8 @@
+{
+  "name": "ClinicSay Patient Alerts",
+  "description": "Clinical Patient Alerts Panel with strict DDD architecture and clinical validations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
